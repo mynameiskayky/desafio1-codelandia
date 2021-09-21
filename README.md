@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O 1º desafio fda codêlandia concluido com sucesso, avançando cada vez mais nas experiencias com muito estudo!
 
-Este é um projeto desenvolvido durante no dia 20 de Setembro de 2021. 
+Este é um projeto desenvolvido no dia 20 de Setembro de 2021. 
 
 ---
 
